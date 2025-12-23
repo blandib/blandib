@@ -26,20 +26,14 @@ I love building projects that blend backend logic with creative frontend design 
 
 ## 🛠️ Skills
 
-**JavaScript**  
-![JavaScript](https://progress-bar.dev/80/?title=JavaScript&color=yellow)
-
-**HTML**  
-![HTML](https://progress-bar.dev/90/?title=HTML&color=orange)
-
-**CSS**  
-![CSS](https://progress-bar.dev/85/?title=CSS&color=blue)
-
-**Node.js**  
-![Node.js](https://progress-bar.dev/75/?title=Node.js&color=green)
-
-**MongoDB**  
-![MongoDB](https://progress-bar.dev/70/?title=MongoDB&color=darkgreen)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![HTML](https://img.shields.io/badge/Markup-HTML-orange)
+![CSS](https://img.shields.io/badge/Style-CSS-blue)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen)
+![C#](https://img.shields.io/badge/Code-C%23-purple)
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![React](https://img.shields.io/badge/Frontend-React-lightblue)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -47,7 +41,11 @@ I love building projects that blend backend logic with creative frontend design 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
+
 
 ---
 
