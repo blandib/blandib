@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer+🌱;Always+Learning+🚀;Creative+Builder+💡)](https://git.io/typing-svg)
 
 I'm a software development student with a background in office computing and a passion for full-stack development.  
-I love building projects that blend backend logic with creative frontend design — from APIs and databases to interactive layouts and visual effects.
+I love building projects that blend backend logic with creative frontend design from APIs and databases to interactive layouts and visual effects.
 
 ---
 
