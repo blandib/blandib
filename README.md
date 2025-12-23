@@ -19,8 +19,8 @@ I love building projects that blend backend logic with creative frontend design 
 | **Final Project 330** | Advanced frontend project | JavaScript | [View Repo](https://github.com/blandib/finalproject330) |
 | **CSE210 Projects** | Object-oriented programming | C# | [View Repo](https://github.com/blandib/cse210w) |
 | **CSE121B** | JavaScript fundamentals | JavaScript | [View Repo](https://github.com/blandib/cse121b) |
-| **CSE340** | Web backend development | JavaScript | [View Repo](https://github.com/blandib/cse340) |
-| **GitHub Skills Clone** | GitHub basics and repo setup | Git | [View Repo](https://github.com/blandib/skills-introduction-to-github-bla) |
+| **CSE340** | Web backend development | JavaScript | [View Repo](https://github.com/blandib/cse340-backend) |
+
 
 ---
 
